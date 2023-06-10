@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.main-container{
+  background-image:url('https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?w=1060&t=st=1685072680~exp=1685073280~hmac=fb901a8693de466b47ccae680eb2411d20dcc8d8fad6ffabcc92058f826acce6');
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.app-container{
+  text-align: center;
+}
+.table-tag{
+  border: 2px solid #000000;
+  border-collapse: collapse;
+}
+th{
+  border: 2px solid #000000;
+  border-collapse: collapse;
+}
+thead{
+  border: 2px solid #000000;
+  border-collapse: collapse;
+}
